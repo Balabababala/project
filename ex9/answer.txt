@@ -1,0 +1,6 @@
+練習1
+
+Engineer 物件無法增加技能(compiler 時 他換看父類別有沒有addSkill 等Runtime 在看子類別內容)
+							失敗
+
+解決 強制轉型
